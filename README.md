@@ -4,7 +4,6 @@ Hola, I'm font-end developer. I always enjoy learning something new.
 
 - I'm currently looking for a job.
 - I'm studying FrontEnd and Networks now.
-
 - I enjoy running, hiking and game. 🏃 🧗
 
 ### Skills
