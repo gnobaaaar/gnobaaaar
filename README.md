@@ -1,4 +1,4 @@
-<a href='https://raabongit.tistory.com/'><img src="https://img.shields.io/badge/Tstory-20C997?style=flat-square&logo=Tstory&logoColor=white"/></a> <a><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="mailto:eumdengs@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/daewoong-eum-673407195/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> <a href='https://raabongit.tistory.com/'><img src="https://img.shields.io/badge/Tstory-F46D01?style=flat-square&logo=Tstory&logoColor=white"/></a> <a href='https://medium.com/@gnobaaaar'><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a> 
 
 Hola, I'm developer. I always enjoy learning something new.
 
