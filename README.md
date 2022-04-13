@@ -1,10 +1,10 @@
 <a href="mailto:eumdengs@gmail.com" target='_blank'><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/daewoong-eum-673407195/" target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> <a href='https://raabongit.tistory.com/' target='_blank'><img src="https://img.shields.io/badge/Tstory-D74C11?style=flat-square&logo=Tstory&logoColor=white"/></a>
 
-Hola, I'm developer. I always enjoy learning something new.
+Hola, I'm Junior PM and developer. I always enjoy learning something new.
 
-- I'm currently looking for a job.
+- I'm currently working as junior PM.
 - I'm studying FrontEnd and Networks now.
-- I enjoy running, hiking and game. 🏃 🧗
+- I enjoy running, hiking and game so much. 🏃 🧗
 <br/>
 
 ### Skills and Tools
