@@ -2,7 +2,7 @@
 
 Hola, I'm Junior PM and developer. I always enjoy learning something new.
 
-- I'm currently working as junior PM.
+- I'm currently studying
 - I'm studying FrontEnd and Networks now.
 - I enjoy running, hiking and game so much. 🏃 🧗
 <br/>
