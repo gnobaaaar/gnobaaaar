@@ -12,5 +12,5 @@ Hola, I'm junior network/cloud engineer. I always enjoy learning something new.
 <a><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a> <a><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a> <a><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/><a/> <a><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><a/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gnobaaaar)](https://github.com/anuraghazra/github-readme-stats)
-<br/> 
+<br/><br/>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gnobaaaar)](https://solved.ac/gnobaaaar)
