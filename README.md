@@ -2,8 +2,8 @@
 
 Hola, I'm junior network/cloud engineer. I always enjoy learning something new.
 
-- I'm currently working in Engineering filed. 🖥
-- I'm studying Algorithms, Networks and Linux now.
+- I'm currently working as Cloud Admin. 🖥
+- I'm studying k8s, Networks and Linux now.
 - I hope to be DevOps someday.
 - I enjoy running, hiking and game so much. 🏃 🧗
 <br/>
