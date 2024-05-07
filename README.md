@@ -1,6 +1,6 @@
 <a href="mailto:eumdengs@gmail.com" target='_blank'><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/daewoong-eum-673407195/" target='_blank'><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a> <a href='https://raabongit.tistory.com/' target='_blank'><img src="https://img.shields.io/badge/Tstory-D74C11?style=flat-square&logo=Tstory&logoColor=white"/></a> <a href='https://velog.io/@gnobaaaar' target='_blank'><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
-Hola, I'm junior network/cloud engineer. I always enjoy learning something new.
+Hola, I'm junior cloud engineer. I always enjoy learning something new.
 
 - I'm currently working as Cloud Admin. 🖥
 - I'm studying k8s, Networks and Linux now.
