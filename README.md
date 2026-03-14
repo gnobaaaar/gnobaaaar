@@ -1,5 +1,16 @@
-## Projects
+> Designing AI agents and projects for DevOps and cloud architecture.
 
-| 프로젝트 | 설명 |
-|----------|------|
-| [firecracker-with-agent](https://github.com/gnobaaaar/firecracker-with-agent) | Firecracker microVM + CrewAI Agent 샌드박스 |
+---
+
+## Some Projects
+### Infrastructure & Virtualization
+
+| Project/Description | GitHub |
+|---------------------|--------|
+| 🔥 **firecracker-with-agent** - Firecracker microVM sandbox controlled by CrewAI agents. Boot isolated Linux VMs in ~200ms, execute commands via web terminal or natural language. | [Link](https://github.com/gnobaaaar/firecraker-with-agent) |
+
+### DevOps & API
+
+| Project/Description | GitHub |
+|---------------------|--------|
+| ⚙️ **GitOps-api-server** - API server for GitOps workflows. | [Link](https://github.com/gnobaaaar/GitOps-api-server) |
