@@ -2,7 +2,7 @@
 
 ---
 
-## Projects
+## Side Projects
 
 ### Infrastructure & Virtualization
 
